@@ -1,0 +1,10 @@
+C:\Users\HUBT\Downloads\SkillNova\be\src\main\java\com\novaskill\config\AppConfig.java
+C:\Users\HUBT\Downloads\SkillNova\be\src\main\java\com\novaskill\controller\AuthController.java
+C:\Users\HUBT\Downloads\SkillNova\be\src\main\java\com\novaskill\dto\AuthResponse.java
+C:\Users\HUBT\Downloads\SkillNova\be\src\main\java\com\novaskill\dto\LoginRequest.java
+C:\Users\HUBT\Downloads\SkillNova\be\src\main\java\com\novaskill\dto\RegisterRequest.java
+C:\Users\HUBT\Downloads\SkillNova\be\src\main\java\com\novaskill\entity\User.java
+C:\Users\HUBT\Downloads\SkillNova\be\src\main\java\com\novaskill\enums\Role.java
+C:\Users\HUBT\Downloads\SkillNova\be\src\main\java\com\novaskill\repository\UserRepository.java
+C:\Users\HUBT\Downloads\SkillNova\be\src\main\java\com\novaskill\service\AuthService.java
+C:\Users\HUBT\Downloads\SkillNova\be\src\main\java\NovaskillApplication.java
