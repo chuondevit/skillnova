@@ -1,4 +1,4 @@
-package main.com.novaskill.config;
+package com.novaskill.config;
 @Configuration
 public class AppConfig {
 
